@@ -4,3 +4,4 @@
 - Day 3 :- Training and Testing Data
 - Day 4 :- Linear Regression
 - Day 5 :- Logistic Regression
+- Day 6 :- SVM
