@@ -1,7 +1,8 @@
 # ML-DL-in-15-days
-- Day 1 :- Introduction to Machine Learning with Python
-- Day 2 :- Preparing Data
-- Day 3 :- Training and Testing Data
-- Day 4 :- Linear Regression
-- Day 5 :- Logistic Regression
-- Day 6 :- SVM
+- Day 01 :- Introduction to Machine Learning with Python
+- Day 02 :- Preparing Data
+- Day 03 :- Training and Testing Data
+- Day 04 :- Linear Regression
+- Day 05 :- Logistic Regression
+- Day 06 :- SVM
+- Day 07 :- K Means Clustering
