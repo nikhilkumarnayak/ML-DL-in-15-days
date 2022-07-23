@@ -6,5 +6,5 @@
 - Day 05 :- Logistic Regression
 - Day 06 :- SVM
 - Day 07 :- K Means Clustering
-- Day 08 :- KNN
+- Day 08 :- KNN(K-Nearest Neighbour)
 - Day 09 :- Decision Tree
