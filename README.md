@@ -7,3 +7,4 @@
 - Day 06 :- SVM
 - Day 07 :- K Means Clustering
 - Day 08 :- KNN
+- Day 09 :- Decision Tree
