@@ -8,3 +8,4 @@
 - Day 07 :- K Means Clustering
 - Day 08 :- KNN(K-Nearest Neighbour)
 - Day 09 :- Decision Tree
+- Day 10 :- Activation Functions
