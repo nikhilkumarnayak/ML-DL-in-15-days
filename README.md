@@ -10,3 +10,4 @@
 - Day 09 :- Decision Tree
 - Day 10 :- Activation Functions
 - Day 11 :- Optimizers
+- Day 12 :- Cost Function and Gradient Descent
