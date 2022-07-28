@@ -11,3 +11,4 @@
 - Day 10 :- Activation Functions
 - Day 11 :- Optimizers
 - Day 12 :- Cost Function and Gradient Descent
+- Day 13 :- ANN(Artificial Neural Network)
