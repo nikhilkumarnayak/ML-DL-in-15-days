@@ -13,3 +13,4 @@
 - Day 12 :- Cost Function and Gradient Descent
 - Day 13 :- ANN(Artificial Neural Network)
 - Day 14 :- CNN(Convolutional Neural Network)
+- Day 15 :- RNN and LSTM
